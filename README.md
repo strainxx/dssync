@@ -18,7 +18,9 @@ This is multi bot which combines telegram and discord
 2. Stupid rate limit handling
 
 ## How to install
-Create config.py with this template
+1. `pip install -r requirements.txt`
+
+2. Create config.py with this template:
 
 ```python
 TG_TOKEN = "YOUR TELEGRAM BOT TOKEN"
